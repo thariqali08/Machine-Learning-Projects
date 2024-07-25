@@ -10,4 +10,4 @@ To implement a data-driven dynamic pricing strategy, businesses typically requir
 - customer segmentation data, 
 - and real-time market data.
 
-This project [link]()
+This project [link](https://github.com/thariqali08/Machine-Learning-Projects/blob/main/Dynamic%20Pricing%20Strategy/Dyn_strat.ipynb)
