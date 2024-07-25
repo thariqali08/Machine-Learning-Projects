@@ -9,4 +9,5 @@ To implement a data-driven dynamic pricing strategy, businesses typically requir
 - cost data
 - customer segmentation data, 
 - and real-time market data.
-This project link
+
+This project [link]()
