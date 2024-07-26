@@ -11,3 +11,9 @@ To implement a data-driven dynamic pricing strategy, businesses typically requir
 - and real-time market data.
 
 I found an ideal dataset to create a Dynamic Pricing Strategy based on the example we discussed above. This is [dataset](https://github.com/thariqali08/Machine-Learning-Projects/blob/main/Dynamic%20Pricing%20Strategy/dynamic_pricing.csv) and [source code](https://github.com/thariqali08/Machine-Learning-Projects/blob/main/Dynamic%20Pricing%20Strategy/Dyn_strat.ipynb)
+
+
+## MNIST Digits Classification with Machine Learning
+MNIST digits dataset is a vast collection of handwritten digits. This dataset is used for training image processing systems. It contains 60,000 training images and 10,000 testing images. You can download this dataset from various data sources on the internet. But as this dataset is already available in this Scikit-learn library, we will be using this dataset by importing it from the Scikit-learn library.
+
+This is how you can solve the problem of handwritten digits classification with Machine Learning using Python. This is [source code]()
