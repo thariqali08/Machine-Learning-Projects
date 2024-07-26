@@ -14,6 +14,6 @@ I found an ideal dataset to create a Dynamic Pricing Strategy based on the examp
 
 
 ## MNIST Digits Classification with Machine Learning
-MNIST digits dataset is a vast collection of handwritten digits. This dataset is used for training image processing systems. It contains 60,000 training images and 10,000 testing images. You can download this dataset from various data sources on the internet. But as this dataset is already available in this Scikit-learn library, we will be using this dataset by importing it from the Scikit-learn library.
+MNIST digits dataset is a vast collection of handwritten digits. This dataset is used for training image processing systems. It contains 60,000 training images and 10,000 testing images, this dataset is already available in this Scikit-learn library, we will be using this dataset by importing it from the Scikit-learn library.
 
 This is how you can solve the problem of handwritten digits classification with Machine Learning using Python. This is Project [source code](https://github.com/thariqali08/Machine-Learning-Projects/blob/main/MNIST%20Digits%20Classification/model_clss.ipynb)
