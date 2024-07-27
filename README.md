@@ -17,3 +17,8 @@ I found an ideal dataset to create a Dynamic Pricing Strategy based on the examp
 MNIST digits dataset is a vast collection of handwritten digits. This dataset is used for training image processing systems. It contains 60,000 training images and 10,000 testing images, this dataset is already available in this Scikit-learn library, we will be using this dataset by importing it from the Scikit-learn library.
 
 This is how you can solve the problem of handwritten digits classification with Machine Learning using Python. This is Project [source code](https://github.com/thariqali08/Machine-Learning-Projects/blob/main/MNIST%20Digits%20Classification/model_clss.ipynb)
+
+## Stress Detection
+Stress detection is a challenging task, as there are so many words that can be used by people on their posts that can show whether a person is having psychological stress or not, this is how you can train a machine learning model to detect stress from social media posts. People often share their feelings on social media platforms. Many organizations can use stress detection to find which social media users are stressed to help them quickly.
+
+This dataset contains various mental health problems shared by people about their life. Fortunately, this dataset is labelled as 0 and 1, where 0 indicates no stress and 1 indicates stress.  This is Project [dataset](https://github.com/thariqali08/Machine-Learning-Projects/blob/main/Stress%20Detection/dataset.csv) and [source code](https://github.com/thariqali08/Machine-Learning-Projects/blob/main/Stress%20Detection/stress_det.ipynb)
